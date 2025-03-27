@@ -5,7 +5,7 @@ using std::string;
 
 
 string kelas[30];
-int pos = 0;
+int pos = -1;
 
 void input_data(string nama);
 void output_data();
